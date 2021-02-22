@@ -1,0 +1,10 @@
+
+.head{
+    height: 500px;
+    width: auto;
+    background-color: rgb(4, 4, 44);
+    color: silver;
+    text-align: center;
+    text-emphasis: hover;
+    font-size: 45px;
+}
